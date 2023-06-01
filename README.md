@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=HiteshChandra001&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HiteshChandra001&theme=vision-friendly-dark&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshChandra001&hide=html&langs_count=8&hide_progress=true)](https://github.com/HiteshChandra001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshChandra001&hide=html&langs_count=4&hide_progress=true)](https://github.com/HiteshChandra001/github-readme-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HiteshChandra001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
