@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn]](https://hiteshchandra001.github.io)
+[![https://hiteshchandra001.github.io]](https://hiteshchandra001.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-chandra-1592b7240) 
 
