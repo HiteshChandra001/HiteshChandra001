@@ -2,7 +2,6 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-chandra-1592b7240) 
-
 [Portfolio](https://hiteshchandra001.github.io/)
 
 
