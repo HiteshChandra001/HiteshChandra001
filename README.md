@@ -1,8 +1,18 @@
+ ## :man_technologist: [About Me](https://HiteshChandra001.github.io/) :
+ 
+<h1 align="center">Hi 👋, I'm Hitesh Chandra </h1>
+<h3 align="center">A passionate backend java developer from Chhattisgarh, India</h3>
 
-## 🌐 Socials:
+- 🌱 I’m skilled in **Java, Hibernate, Spring, Mysql, HTML, CSS & Javascript**
+  </br>
+- 👨‍💻 Know more about me <a href="https://HiteshChandra001.github.io/">My Portfolio</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-chandra-1592b7240) 
-[Portfolio](https://HiteshChandra001.github.io/)
+
+
+### Connect with me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://HiteshChandra001.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-chandra-1592b7240/)
+[![gmail](https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mrhiteshchandra1998@gmail.com)
 
 
 # 💻 Tech Stack:
