@@ -5,14 +5,16 @@
 
 - 🌱 I’m skilled in **Java, Hibernate, Spring, Mysql, HTML, CSS & Javascript**
   </br>
+- 🎓 Graduated from Atal Bihari Vajpayee Vishwavidyalay with a degree in M.Sc.(Geology).
+  </br>
+- ⚡ Fun fact: I love playing cricket and chess.
+  <br />
 - 👨‍💻 Know more about me <a href="https://HiteshChandra001.github.io/">My Portfolio</a>
 
-
-
 ### Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://HiteshChandra001.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-chandra-1592b7240/)
-[![gmail](https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mrhiteshchandra1998@gmail.com)
+[![portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white)](https://HiteshChandra001.github.io/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-chandra-1592b7240/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhiteshchandra1998@gmail.com)
 
 
 # 💻 Tech Stack:
