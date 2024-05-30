@@ -1,7 +1,11 @@
  ## :man_technologist: [About Me](https://HiteshChandra001.github.io/) :
  
 <h1 align="center">Hi 👋, I'm Hitesh Chandra </h1>
-<h3 align="center">A passionate backend java developer from Chhattisgarh, India</h3>
+<h3 align="center">A passionate backend java developer</h3>
+
+<h2>💫 About Me:</h2>
+<p>Highly skilled Java Backend Developer with extensive experience in Spring Boot, Java, and backend architecture. Proficient in frontend technologies including HTML, CSS, and JavaScript, Skilled in Data Structures and Algorithms (DSA)</p>
+
 
 - 🌱 I’m skilled in **Java, Hibernate, Spring, Mysql, HTML, CSS & Javascript**
   </br>
